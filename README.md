@@ -10,7 +10,7 @@ Aplikasi Serene atau screening apps adalah sebuah aplikasi untuk mengecek keseha
 Fitur - fitur yang tersedia terdapat sebagai berikut:
 - Splash
 - Halaman Login dan Register
-- halaman Home -> Terdapat Fitur Mood Emoji, Tes Soal Kesehatan Mental, Grafik, dan Akses Cepat.
+- halaman Home -> Terdapat Fitur Mood Emoji, Tes Soal Kesehatan Mental, Cetak pdf, Bagikan, Grafik, dan Akses Cepat.
 - halaman Meditasi -> Terdapat fitur berbagai sesi panduan audio untuk membantu pengguna relaksasi dan fokus.
 - Halaman Konseling -> Terdapat fitur pemeriksaan AI dengan sensor dan konsultasi profesional.
 - Halaman Artikel -> Terdapat fitur Daftar Bacaan yang Mengarah ke Konten Edukasi Secara Mendetail.
