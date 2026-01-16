@@ -32,11 +32,6 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
-lib/models/
-lib/package.flutter
-lib/services
-lib/utils
-lib/widgets
 
 # Symbolication related
 app.*.symbols
