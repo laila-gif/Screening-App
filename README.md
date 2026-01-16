@@ -4,7 +4,7 @@ Tugas akhir Matakuliah Pnegembangan Aplikasi Mobile
 
 ### Detail Aplikasi
 
-Aplikasi Serene atau screening apps adalah sebuah aplikasi untuk mengecek kesehatan mental adna dan bisa mendeteksi apa hayo
+Aplikasi Serene atau screening apps adalah sebuah aplikasi untuk mengecek kesehatan mental anda dan bisa mendeteksi apa hayo
 
 ### Fitur yang tersedia
 Fitur - fitur yang tersedia terdapat sebagai berikut:
