@@ -4,7 +4,9 @@ Tugas akhir Matakuliah Pnegembangan Aplikasi Mobile
 
 ### Detail Aplikasi
 
-Aplikasi Serene atau screening apps adalah sebuah aplikasi untuk mengecek kesehatan mental anda dan bisa mendeteksi apa hayo
+Serene (Screening App) adalah aplikasi mobile berbasis Android yang dikembangkan menggunakan Flutter dengan tujuan membantu pengguna dalam mengecek dan memantau kesehatan mental secara mandiri. Aplikasi ini menyediakan fitur screening awal, relaksasi, edukasi, serta dukungan konseling yang terintegrasi dalam satu platform.
+
+Aplikasi ini ditujukan sebagai alat pendukung (early screening), bukan sebagai pengganti diagnosis medis profesional.
 
 ### Fitur yang tersedia
 Fitur - fitur yang tersedia terdapat sebagai berikut:
@@ -19,9 +21,10 @@ Fitur - fitur yang tersedia terdapat sebagai berikut:
 ### Kontribusi Anggota kelompok (npm + nama) 
 
  1. 5230411014 Laila Rahmawati -> Mengerjakan Bagian Backend firebase Login, Register, Logout dan Bagian Halaman Konseling pemeriksaan AI dengan sensor dan konsultasi profesional
- 2. 5230411166 Miftakhul Syauqi -> Mengerjakan Bagian music Meditasi & Halaman Screen Artikel
+ 2. 5230411166 Miftakhul Syauqi -> Mengerjakan Bagian music Meditasi & Halaman Screen Artikel, serta perbaikan bug 
  3. 5230411230 M. Rizqi Febriansyah -> Mengerjakan Bagian cloudinary, Halaman Home dan soal" cek kesehatam mental dan Halaman Meditasi
  4. 5230411261 Bahrul Hidayah ->
  5. 5230411272 Sulthon Kodir ->
+ 6. 
 
 ### Note
