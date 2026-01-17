@@ -1,6 +1,6 @@
 # Screening App
 
-Tugas akhir Matakuliah Pnegembangan Aplikasi Mobile
+Tugas akhir Matakuliah Pnegembangan Aplikasi Mobile, Pada Project ini kelompok saya membuat sebuah aplikasi mobile tentang insight mind berbasis android 
 
 ### Detail Aplikasi
 
