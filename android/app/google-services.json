@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069183722238",
+    "project_id": "konseling-dc383",
+    "storage_bucket": "konseling-dc383.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069183722238:android:4cdf5703fa4d970086fbaf",
+        "android_client_info": {
+          "package_name": "com.company.konseling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGWqgGkEXS7Sy35w_ke13SfrAPytlQOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
