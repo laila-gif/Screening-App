@@ -20,7 +20,7 @@ Fitur - fitur yang tersedia terdapat sebagai berikut:
 
 ### Kontribusi Anggota kelompok (npm + nama) 
 
- 1. 5230411014 Laila Rahmawati -> Mengerjakan Bagian Backend firebase Login, Register, Logout dan Bagian Halaman Konseling pemeriksaan AI dengan sensor dan konsultasi profesional, Grafik
+ 1. 5230411014 Laila Rahmawati -> Mengerjakan Bagian Backend firebase Login, Register, Logout dan Bagian Halaman Konseling pemeriksaan AI dengan sensor dan konsultasi profesional, Grafik.
  2. 5230411166 Miftakhul Syauqi -> Mengerjakan Bagian music Meditasi & Halaman Screen Artikel, serta perbaikan bug 
  3. 5230411230 M. Rizqi Febriansyah -> Mengerjakan Bagian cloudinary, Halaman Home dan soal" cek kesehatam mental dan Halaman Meditasi
  4. 5230411261 Bahrul Hidayah ->
